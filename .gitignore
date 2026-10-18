@@ -29,9 +29,6 @@ Thumbs.db
 *.pem
 
 # ─── Editor / IDE ────────────────────────────────────────────────────────────
-.vscode/*
-!.vscode/extensions.json
-.idea/
 *.suo
 *.ntvs*
 *.njsproj
